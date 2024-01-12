@@ -160,7 +160,7 @@ export default function Livepreview() {
           <div className="container">
             <div className="lg:flex items-center justify-between gap-6">
               <div className="flex items-center justify-between">
-                <Link to="/index">
+                <Link to="https://digityreact.netlify.app/index">
                   <img src={logodark} className="" alt="logo" />
                 </Link>
                 <button
@@ -190,7 +190,7 @@ export default function Livepreview() {
                 <ul className="lg:space-x-8 space-y-4 lg:space-y-0 lg:flex items-center mt-6 lg:mt-0 max-[1024px]:max-h-80 max-[1024px]:overflow-scroll">
                   <li className="nav-active">
                     <Link
-                      to="/index"
+                      to="https://digityreact.netlify.app/index"
                       className="uppercase text-sm font-medium lg:py-9 tracking-[0.86px] text-dark-semilight relative hover:text-dark duration-300"
                     >
                       Live Preview
