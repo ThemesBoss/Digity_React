@@ -382,7 +382,8 @@ export default function Livepreview() {
                 </div>
               </div>
               <div className="bg-white rounded-2xl overflow-hidden">
-                <a href="https://digityreact.netlify.app/Utility">
+                {/* <a href="https://digityreact.netlify.app/Utility"> */}
+                <a href="https://digityreact.netlify.app/utility">
                   <img
                     src={utility}
                     className="object-cover w-full h-full"
