@@ -1,0 +1,20 @@
+{
+    "routes": [
+      { "path": "/", "element": "Livepreview" },
+      { "path": "/index", "element": "Index" },
+      { "path": "/about", "element": "About" },
+      { "path": "/blog", "element": "Blog" },
+      { "path": "/blogdetails", "element": "Blogdetails" },
+      { "path": "/contact", "element": "Contact" },
+      { "path": "/error", "element": "Error" },
+      { "path": "/faqs", "element": "Faqs" },
+      { "path": "/pricing", "element": "Pricing" },
+      { "path": "/services", "element": "Services" },
+      { "path": "/team", "element": "Team" },
+      { "path": "/teamdetails", "element": "Teamdetails" },
+      { "path": "/utility", "element": "Utility" },
+      { "path": "/work", "element": "Work" },
+      { "path": "/workdetail", "element": "Workdetail" },
+      { "path": "/livepreview", "element": "Livepreview" }
+    ]
+  }
