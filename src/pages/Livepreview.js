@@ -302,7 +302,7 @@ export default function Livepreview() {
               </div>
               <div className="mt-12 space-y-6 md:mt-14 md:space-y-[72px]">
                 <div className="bg-white rounded-2xl overflow-hidden">
-                  <Link to="https://digity-react.netlify.app/about">
+                  <Link to="https://digityreact.netlify.app/about">
                     <img
                       src={abot}
                       className="object-cover w-full h-full"
@@ -311,7 +311,7 @@ export default function Livepreview() {
                   </Link>
                   <div className="p-8 md:max-w-[420px]">
                     <a
-                      href="https://digity-react.netlify.app/about"
+                      href="https://digityreact.netlify.app/about"
                       className="hover:text-green font-semibold text-[22px] leading-8 duration-300"
                     >
                       The purpose of an about us page is to inform the company.
@@ -319,7 +319,7 @@ export default function Livepreview() {
                   </div>
                 </div>
                 <div className="bg-white rounded-2xl overflow-hidden">
-                  <a href="https://digity-react.netlify.app/pricing">
+                  <a href="https://digityreact.netlify.app/pricing">
                     <img
                       src={prici}
                       className="object-cover w-full h-full"
@@ -328,7 +328,7 @@ export default function Livepreview() {
                   </a>
                   <div className="p-8 md:max-w-[420px]">
                     <a
-                      href="https://digity-react.netlify.app/pricing"
+                      href="https://digityreact.netlify.app/pricing"
                       className="hover:text-green font-semibold text-[22px] leading-8 duration-300"
                     >
                       Bringing a modern mobile experience pricing
@@ -339,7 +339,7 @@ export default function Livepreview() {
                   </div>
                 </div>
                 <div className="bg-white rounded-2xl overflow-hidden">
-                  <a href="https://digity-react.netlify.app/faqs">
+                  <a href="https://digityreact.netlify.app/faqs">
                     <img
                       src={faq}
                       className="object-cover w-full h-full"
@@ -348,7 +348,7 @@ export default function Livepreview() {
                   </a>
                   <div className="p-8 md:max-w-[420px]">
                     <a
-                      href="https://digity-react.netlify.app/faqs"
+                      href="https://digityreact.netlify.app/faqs"
                       className="hover:text-green font-semibold text-[22px] leading-8 duration-300"
                     >
                       A service page is a web page where the services you offer.
@@ -362,7 +362,7 @@ export default function Livepreview() {
             </div>
             <div className="mt-6 space-y-6 md:mt-[72px] md:space-y-[72px]">
               <div className="bg-white rounded-2xl overflow-hidden">
-                <a href="https://digity-react.netlify.app/services">
+                <a href="https://digityreact.netlify.app/services">
                   <img
                     src={service}
                     className="object-cover w-full h-full"
@@ -371,7 +371,7 @@ export default function Livepreview() {
                 </a>
                 <div className="p-8 md:max-w-[420px]">
                   <a
-                    href="https://digity-react.netlify.app/services"
+                    href="https://digityreact.netlify.app/services"
                     className="hover:text-green font-semibold text-[22px] leading-8 duration-300"
                   >
                     A frequently asked questions page
@@ -382,7 +382,7 @@ export default function Livepreview() {
                 </div>
               </div>
               <div className="bg-white rounded-2xl overflow-hidden">
-                <a href="https://digity-react.netlify.app/Utility">
+                <a href="https://digityreact.netlify.app/Utility">
                   <img
                     src={utility}
                     className="object-cover w-full h-full"
@@ -391,7 +391,7 @@ export default function Livepreview() {
                 </a>
                 <div className="p-8 md:max-w-[420px]">
                   <a
-                    href="https://digity-react.netlify.app/Utility"
+                    href="https://digityreact.netlify.app/Utility"
                     className="hover:text-green font-semibold text-[22px] leading-8 duration-300"
                   >
                     Utility pages can be configured for a site's error pages.
@@ -402,7 +402,7 @@ export default function Livepreview() {
                 </div>
               </div>
               <div className="bg-white rounded-2xl overflow-hidden">
-                <a href="https://digity-react.netlify.app/team">
+                <a href="https://digityreact.netlify.app/team">
                   <img
                     src={teams}
                     className="object-cover w-full h-full"
@@ -411,7 +411,7 @@ export default function Livepreview() {
                 </a>
                 <div className="p-8 md:max-w-[420px]">
                   <a
-                    href="https://digity-react.netlify.app/team"
+                    href="https://digityreact.netlify.app/team"
                     className="hover:text-green font-semibold text-[22px] leading-8 duration-300"
                   >
                     Team's specific duties and responsibilities.

@@ -21,7 +21,6 @@ import Livepreview from "./pages/Livepreview";
          function AppRouter(componentName) { 
 
             switch (componentName){
-
                 case 'Index':
                     return <Index/>; 
                 case 'About': 
