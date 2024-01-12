@@ -382,7 +382,6 @@ export default function Livepreview() {
                 </div>
               </div>
               <div className="bg-white rounded-2xl overflow-hidden">
-                {/* <a href="https://digityreact.netlify.app/Utility"> */}
                 <a href="https://digityreact.netlify.app/utility">
                   <img
                     src={utility}
@@ -392,7 +391,7 @@ export default function Livepreview() {
                 </a>
                 <div className="p-8 md:max-w-[420px]">
                   <a
-                    href="https://digityreact.netlify.app/Utility"
+                    href="https://digityreact.netlify.app/utility"
                     className="hover:text-green font-semibold text-[22px] leading-8 duration-300"
                   >
                     Utility pages can be configured for a site's error pages.
